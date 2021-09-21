@@ -3,6 +3,4 @@ Repo de pruebas de la asignatura de mecatronica
 
 
 
-apsodfoasdofasd
-
-fahkjsldfjkasd
+pruebas repo
